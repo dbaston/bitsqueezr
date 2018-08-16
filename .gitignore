@@ -5,3 +5,5 @@
 *.o
 *.so
 *.swp
+*.gz
+*.Rcheck
