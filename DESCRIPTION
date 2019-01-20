@@ -4,9 +4,9 @@ Title: Quantize Floating-Point Numbers for Improved Compressibility
 Version: 0.1.0
 Author: Daniel Baston <dbaston@gmail.com>
 Maintainer: Daniel Baston <dbaston@gmail.com>
-Description: Provides a implementation of floating-point quantization algorithms, similar to
-             those available in the netCDF operators (NCO) software package, for use in
-             precision-preserving compression.
+Description: Provides a implementation of floating-point quantization algorithms for use in precision-preserving 
+             compression, similar to the approach taken in the 'netCDF operators' (NCO) software package and 
+             described in Zender (2016) <doi:10.5194/gmd-2016-63>.
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
