@@ -1,3 +1,5 @@
+[![Travis build status](https://travis-ci.org/dbaston/bitsqueezr.svg?branch=master)](https://travis-ci.org/dbaston/bitsqueezr)
+[![Coverage status](https://codecov.io/gh/dbaston/bitsqueezr/branch/master/graph/badge.svg)](https://codecov.io/github/dbaston/bitsqueezr?branch=master)
 [![License](https://img.shields.io/badge/License-GPL%203.0-green.svg)](http://www.gnu.org/licenses/gpl-3.0.html)
 [![CRAN](http://www.r-pkg.org/badges/version/bitsqueezr)](https://cran.r-project.org/package=bitsqueezr)
 [![cran checks](https://cranchecks.info/badges/worst/bitsqueezr)](https://cran.r-project.org/web/checks/check_results_bitsqueezr.html)

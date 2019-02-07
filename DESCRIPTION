@@ -10,4 +10,6 @@ Description: Provides a implementation of floating-point quantization algorithms
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
-Suggests: testthat
+Suggests: 
+    testthat,
+    covr
