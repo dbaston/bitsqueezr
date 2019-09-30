@@ -1,7 +1,7 @@
 Package: bitsqueezr
 Type: Package
 Title: Quantize Floating-Point Numbers for Improved Compressibility
-Version: 0.1.0
+Version: 0.1.1
 Author: Daniel Baston <dbaston@gmail.com>
 Maintainer: Daniel Baston <dbaston@gmail.com>
 Description: Provides a implementation of floating-point quantization algorithms for use in precision-preserving 
