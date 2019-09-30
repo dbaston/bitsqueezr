@@ -8,6 +8,8 @@ Description: Provides a implementation of floating-point quantization algorithms
              compression, similar to the approach taken in the 'netCDF operators' (NCO) software package and 
              described in Zender (2016) <doi:10.5194/gmd-2016-63>.
 License: GPL-3
+URL: https://github.com/dbaston/bitsqueezr
+BugReports: https://github.com/dbaston/bitsqueezr/issues
 Encoding: UTF-8
 LazyData: true
 Suggests: 
